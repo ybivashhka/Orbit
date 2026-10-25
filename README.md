@@ -2,6 +2,8 @@
 
 <img src="docs/icon.png" width="72" alt="Orbit">
 
+https://github.com/user-attachments/assets/b37add24-1f33-4e07-9088-0dc729c3443a
+
 Конвертер файлов для macOS. Правый клик по файлу → нужный формат → готово.
 Работает локально, без загрузки файлов на сервер.
 
@@ -9,7 +11,7 @@
 
 ## Установка
 
-1. Скачайте **Orbit-1.5-macOS.zip** из раздела **Releases**.
+1. Скачайте [**Orbit-1.5-macOS.zip**](https://github.com/ybivashhka/Orbit/releases/download/v1.5/Orbit-1.5-macOS.zip) из раздела **Releases**.
 2. Распакуйте архив, перенесите **Orbit.app** в **Программы** и откройте.
 3. В окне Orbit нажмите **«Включить»** и активируйте **Orbit — Конвертировать** в расширениях Finder.
 
